@@ -1,0 +1,7 @@
+apt update andand upgrade          
+apt install python       
+apt install git   
+git clone https://github.com/IlayTamvan/Report          
+cd Report       6/ls         
+unzip Report.zip         
+python2 Report.py
